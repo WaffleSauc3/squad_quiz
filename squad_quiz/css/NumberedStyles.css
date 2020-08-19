@@ -1,0 +1,56 @@
+body{
+  background-image: url("../images/Squad_collage.png");
+
+  background-color: #8860D0;
+}
+
+header{
+  display: grid;
+  background-color: #5680E9;
+
+  margin: auto;
+  margin-top: 100px;
+
+  width: 800px;
+  height: 200px;
+  text-align: center;
+}
+
+h1{
+  margin: auto;
+  font-family: 'Anton', sans-serif;
+  font-size: 2rem;
+}
+
+button{
+  width: 300px;
+  height: 100px;
+  margin-top: 20px;
+  margin-left: 25px;
+  margin-right: 25px;
+
+  background-color: #5AB9EA;
+  border-width: 0;
+  border-radius: 100%;
+
+  font-family: 'Indie Flower', cursive;
+  font-size: 3rem;
+}
+
+button:hover{
+  background-color: #8860D0;
+}
+
+.numbers{
+  position: relative;
+  text-align: center;
+}
+
+.progress{
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+
+  background-color: #C1C8E4;
+  display: inline-block;
+}

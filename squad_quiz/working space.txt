@@ -1,0 +1,13 @@
+var matthew = 0;
+var adam = 0;
+var dionisi = 0;
+var theo = 0;
+var nico = 0;
+var spiros = 0;
+
+
+
+
+// storing the questions in a dictionairy key=string(questions) value=array with 4 answer objects
+var questions = {};
+questions["Do you think the squad will remmain friends forever"] = ["yes", "no", "maybe"];
